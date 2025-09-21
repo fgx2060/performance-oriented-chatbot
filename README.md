@@ -22,3 +22,6 @@ jupyter notebook main.ipynb
 
 ## 成果報告書 
  - 人工智慧實務實作-以效能為導向的客製化聊天機.pdf
+
+## 參考文獻
+ - TSP_CMC_54360.pdf
