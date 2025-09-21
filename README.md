@@ -16,7 +16,8 @@
 
 ## 🚀 使用方式
 ```bash
-python main.ipynb
+jupyter notebook main.ipynb
+
 ```
 
 ## 成果報告書 
